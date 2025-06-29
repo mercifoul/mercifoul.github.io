@@ -7,6 +7,10 @@ body {
     background-color: #f2f5fd !important;
     color: #272727;
 }
+a {
+    text-decoration: none !important;
+    color: #c94d71 !important;
+}
 
 /* my classes */
 .image1 {
@@ -30,7 +34,7 @@ body {
 
     border-top-right-radius: 10em;
     border-top-left-radius: 10em;
-    border-bottom-right-radius: 1.25em;
+    border-bottom-right-radius: 0.5em;
     border-bottom-left-radius: 1.25em;
 
     margin-top: -6.5em;
@@ -53,7 +57,7 @@ body {
 
     background-color: #c94d71;
 
-    border-top-right-radius: 1.25em;
+    border-top-right-radius: 3.5em;
     border-top-left-radius: 1.25em;
 }
 .decor-circle {
